@@ -1,4 +1,4 @@
-# DictionaryAPP📕
+# WordbookAPP📕
 
 👋🏻Hey there, This is a 'WordBook' application
 
